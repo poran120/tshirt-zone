@@ -1,0 +1,8 @@
+.product_details{
+    height: 400px;
+    /* background: skyblue; */
+    border: 2px solid skyblue;
+}
+.product_details img{
+    height: 250px;
+}
